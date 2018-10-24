@@ -2,21 +2,6 @@
 
 > GoRemote Nuxt.js based remote job board
 
-## Build Setup
+## Maintained on Azure DevOps
 
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+This repository has been moved to our Azure DevOps account where it has the build and release pipeline. Team members can request access by sending an email to [Stephan](mailto:stephan@scopeweb.nyc)
